@@ -17,7 +17,7 @@ Color palette: **primary** `#cd853f`, **background** `#faf4f2`. Uses [rich] to r
 ### Linux / macOS / Windows (Python 3.9+)
 ```bash
 pip install -r requirements.txt
-cd /home/x3rax/Desktop/path_to_learn/pattrex
+cd pattrex
 sudo ln -s $(pwd)/pattrex.py /usr/local/bin/pattrex
 sudo chmod +x /usr/local/bin/pattrex
 
